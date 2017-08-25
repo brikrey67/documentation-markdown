@@ -48,7 +48,7 @@ Generally, a good `readme` will contain (or link to) *at least* the following se
     - A link to the project's main repository
     - A link to the project's issue tracker
 
-[Example Readme](https://github.com/ga-dc/ga_exit_tickets)
+It will look something like this [Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) or this [Readme](https://github.com/ga-dc/ga_exit_tickets).
 
 
 ## Markdown (5 minutes)
