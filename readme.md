@@ -98,3 +98,7 @@ will be rendered as...
 
 ## You Do: Create Documentation
 For the remainder of the class period, create documentation for your Project 1 by adding a `readme.md` to your project's **root directory** and filling it in with the neccessary content. Be sure to follow the rubric listed above and refer to the [Example Readme](https://github.com/ga-dc/ga_exit_tickets) for guidance.
+
+## Markdown Cheatsheet
+
+See the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for quick and easy reference!
