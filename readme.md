@@ -40,7 +40,7 @@ Generally, a good `readme` will contain (or link to) *at least* the following se
   - This is particularly important when it comes to recruiters scanning your projects for keywords
 - **Installation Instructions / Getting Started**
   - This section should walk a reader, step by step, through the process of setting up your project
-  - For a tool meant to be integrated into other projects, this would likely outline the process of installing and accessing your project
+  - For a tool meant to be integrated into other projects, this would likely outline the process of installing and accessing this tool in your project
   - For an application, this would likely outline the process of forking, cloning, and starting the app locally
 - **Contribution Guidelines**
   - This section should offer guidance on where and how users can contribute to your code, identify bugs, and propose improvements
@@ -52,6 +52,7 @@ Generally, a good `readme` will contain (or link to) *at least* the following se
 
 
 ## Markdown (5 minutes)
+
 The `.md` extension on your `readme.md` stands for [Markdown](https://en.wikipedia.org/wiki/Markdown), which is a light-weight markup language that can be easily rendered into HTML (or other formats). However, its syntax is much simpler and faster to write than HTML, making it a good choice for writing up documentation.
 > This lesson is written in Markdown. [Click Here](https://git.generalassemb.ly/raw/ga-wdi-lessons/documentation-markdown/master/readme.md) to see the unformatted version.
 
@@ -61,7 +62,8 @@ Complete this short tutorial on Markdown's syntax. Please raise your hand if you
 [Markdown Tutorial](http://www.markdowntutorial.com/)
 
 ### Bonus: GitHub Extended Markdown
-When adding content to GitHub, you have access to some additional features in Markdown beyond the original syntax. These include:
+When adding content to GitHub, you have access to some additional features in Markdown beyond the original syntax. These include...
+
 - language-specific syntax highlighting and code formatting
 - task lists
 - tables
@@ -81,6 +83,17 @@ function foo(arr) {
     return bar(el)
   })
 }
+```
+
+---
+
+![backticks example](gh-md-diff.png)
+
+will be rendered as...
+
+```diff
+-var x = function(a, b){ return a + b }
++const add = (firstNum, secondNum) => firstNum + secondNum
 ```
 
 ## You Do: Create Documentation
